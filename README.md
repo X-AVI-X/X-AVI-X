@@ -13,16 +13,21 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avijitpaulavi/)
+[![Enterprise Profile](https://img.shields.io/badge/Corporate_GitHub-Avijit--ODCL-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Avijit-ODCL)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avijit.paul.cs@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-X--AVI--X-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X-AVI-X)
 
 </div>
 
 <br/>
 
+> [!NOTE]
+> ### 🏢 Enterprise Activity Notice for Technical Evaluators & Hiring Boards
+> **Daily Production Engineering:** As a full-time Full Stack Software Engineer at **One Direction Companies Limited**, my daily commits, code reviews, sprint deliveries, and microservice deployments occur within private organizational repositories under my corporate identity ([**@Avijit-ODCL**](https://github.com/Avijit-ODCL)) and enterprise GitLab.  
+> **Purpose of this Profile ([@X-AVI-X](https://github.com/X-AVI-X)):** This public personal profile serves as a curated showcase of distributed microservices architecture, public technical reference projects, and research prototypes.
+
 ---
 
-### 🌐 System Architecture & Engineering Philosophy
+### 🌐 Architectural Profile & Engineering Philosophy
 
 ```
   ┌────────────────────────────────────────────────────────────────────────────────────────┐
@@ -35,6 +40,7 @@
   │  • Infrastructure      : Docker, Docker Compose, Kubernetes, GitHub Actions CI/CD      │
   │  • Academic Track      : 4 Consecutive First Divisions | PMAIDE (University of Dhaka)  │
   │  • Code Provenance     : Clean Domain-Driven Design, ACID Transactions, Zero-Bloat DTOs│
+  │  • Mentorship & Impact : High School Coding Tutor & STEM Educator in Bashundhara, Dhaka │
   └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -44,14 +50,14 @@
 
 <div align="center">
 
-#### Backend, Cloud & Distributed Systems
+#### Backend, Cloud & Distributed Infrastructure
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,redis,docker,kubernetes,linux,git,githubactions,maven,gradle&perline=12&theme=dark" alt="Backend Skills" />
   </a>
 </p>
 
-#### Frontend & UI Engineering
+#### Frontend & UI/UX Engineering
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,redux,postman&perline=9&theme=dark" alt="Frontend Skills" />
@@ -60,11 +66,11 @@
 
 </div>
 
-| Tier | Technologies & Architectural Execution |
+| Layer | Technologies & Practical Execution |
 | :--- | :--- |
 | **Backend & Microservices** | **Java (17/21)**, **Spring Boot 3**, **Spring Cloud** (Eureka Service Discovery, Spring Cloud Gateway), Spring Security, Hibernate / Spring Data JPA, RESTful APIs, SOAP Web Services |
 | **Data & Cache Engineering** | **PostgreSQL** (Advanced Indexing, Query Tuning, Execution Plan Analysis), MySQL, **Redis** (Cache-Aside, Distributed Sessions), ACID Transactions |
-| **Frontend & Client Architecture** | **React.js**, **Next.js**, TypeScript, Modern Component Architecture, Material Design Principles, Tailwind CSS, Responsive Design |
+| **Frontend Architecture** | **React.js**, **Next.js**, TypeScript, Modern Component Architecture, Material Design Principles, Tailwind CSS, Responsive Web Design |
 | **DevOps & Delivery Pipeline** | **Docker**, **Docker Compose** containerization, Kubernetes fundamentals, Automated CI/CD (GitHub Actions), Linux Shell Scripting |
 | **Software Quality & Testing** | **JUnit 5**, **Mockito**, Automated Unit & Integration Testing, Test-Driven Development (TDD), Domain-Driven Design (DDD) |
 
@@ -163,7 +169,19 @@
 
 ---
 
-### 📊 GitHub Productivity & Contribution Metrics
+### 👨‍🏫 Mentorship, Pedagogy & Community Impact
+
+Beyond commercial engineering, I am passionate about mentoring and inspiring the next generation of technologists:
+- **Coding Tutor & High School STEM Mentor (Bashundhara R/A, Dhaka):**
+  - Actively tutoring and coaching high school students in fundamental computer science, computational problem-solving, and algorithmic programming.
+  - Guiding students in building practical software projects, mastering object-oriented programming (OOP), and preparing for National High School Programming Contests (NHSPC) and ICT Olympiads.
+- **University Leadership & Technical Coordination (AIUB Computer Club - ACC):**
+  - Co-organized and coordinated major university tech symposiums, including CS Fest and Cyber Gaming Fest.
+  - **Champion — Senior ICT Olympiad (JARVIS)**, AIUB (2023).
+
+---
+
+### 📊 Professional Development & Streak Metrics
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=X-AVI-X&theme=tokyonight&hide_border=true&stroke=00F0FF" alt="GitHub Streak" />
@@ -192,6 +210,6 @@
 ### 🤝 Let's Connect & Collaborate
 **Open for high-impact enterprise engineering opportunities.**
 
-[LinkedIn Profile](https://www.linkedin.com/in/avijitpaulavi/) • [Email: avijit.paul.cs@gmail.com](mailto:avijit.paul.cs@gmail.com) • [Public GitHub Portfolio](https://github.com/X-AVI-X)
+[LinkedIn Profile](https://www.linkedin.com/in/avijitpaulavi/) • [Corporate GitHub (@Avijit-ODCL)](https://github.com/Avijit-ODCL) • [Email: avijit.paul.cs@gmail.com](mailto:avijit.paul.cs@gmail.com)
 
 </div>
