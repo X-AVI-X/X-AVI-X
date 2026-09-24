@@ -132,7 +132,7 @@
       </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Security_6-6DB33F?style=flat-square&logo=spring-security&logoColor=white" />
+        <a href="https://github.com/X-AVI-X/Online-Book-Library/actions"><img src="https://github.com/X-AVI-X/Online-Book-Library/actions/workflows/ci.yml/badge.svg" /></a>
         <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
         <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
       </p>
